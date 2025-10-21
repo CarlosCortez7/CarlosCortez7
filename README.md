@@ -1,3 +1,4 @@
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Me llamo Carlos</h1>
 </p>
    
   
@@ -16,7 +17,6 @@
   <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Me llamo Carlos</h1>
 <h3 align="center">Estudiante de Ingeniería en Informática</h3>
 
 ## 👨‍💻 Languages and Tools:
